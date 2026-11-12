@@ -1,0 +1,7 @@
+# Python 3.11+
+mysql-connector-python
+python-dotenv
+redis
+pymongo
+cassandra-driver
+neo4j
